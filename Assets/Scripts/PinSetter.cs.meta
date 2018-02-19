@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcfa21ecf75c44b3ab57074b0ab4c249
+timeCreated: 1519041168
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - standingDisplay: {instanceID: 0}
+  - pinSet: {fileID: 1655457893078542, guid: cce0f2bc6c6414b4093773230016f3ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
